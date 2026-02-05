@@ -147,21 +147,30 @@ const whis = {
 ## 🔒 `chmod 700 ./projects`
 
 > **⚠️ Most repositories are classified.** Code theft incidents forced private access.
+> *Source code is private — descriptions below.*
 
-<details>
-<summary>📁 <b>[ CLICK TO DECLASSIFY ]</b></summary>
-<br>
+</div>
 
-| Type | Project | Status |
-|:----:|---------|:------:|
-| 🤖 | Automation Systems & Arbitrage Checkers | `ACTIVE` |
-| 🛡️ | Advanced .NET Code Obfuscation | `ACTIVE` |
-| 🔑 | Licensing & Subscription Platforms | `ACTIVE` |
-| 🎮 | Custom Unity & IL2CPP Frameworks | `ACTIVE` |
-| 🔍 | RE Analysis & Vuln Research Tools | `ACTIVE` |
-| 🚀 | DirectX Overlay & Injection Systems | `ACTIVE` |
+<div align="center">
 
-</details>
+| | Project | Tech | Description |
+|:---:|---------|:----:|-------------|
+| 🛡️ | **Whis Obfuscator** | `C#` `.NET` | Advanced .NET assembly obfuscator — name protection, string encryption, anti-debug, control flow, anti-de4dot, junk code injection |
+| 🚀 | **Whis Launcher** | `C++` `DirectX9` `ImGui` | Modern desktop launcher with hardware-accelerated UI, auto-update OTA, blur effects & smooth animations |
+| 👻 | **Whis Phasmo Premium** | `C#` `MelonLoader` `Unity` | Full-featured Phasmophobia mod — ESP, harmony patching, fullbright, troll menu, AES encrypted licensing |
+| 👻 | **Whis Repo Premium** | `C#` `MelonLoader` `Unity` | Advanced Phasmophobia mod — noclip, item manager, server list, player settings, color changer, ESP system |
+| 🎲 | **Whis LiarsBar IL2CPP** | `C#` `IL2CPP` `Unity` | Liars Bar premium mod built for IL2CPP runtime — native code hooking & card manipulation |
+| 🎲 | **Whis LiarsBar Mono** | `C#` `Mono` `PowerShell` | Liars Bar mod for Mono backend with RE analysis toolkit — DLL analysis, class enumeration scripts |
+| 🦀 | **Whis CrabGame VIP** | `C#` `MelonLoader` `Unity` | Crab Game premium mod — anti-cheat bypass, custom ESP rendering, anti-debugger protection |
+| 💥 | **Whis MegaBonk Premium** | `C#` `MelonLoader` `Unity` | MegaBonk game mod — login system, troll menus, logging framework |
+| 🤖 | **Whis EveryMatrix Bot** | `Python` `Selenium` `SQLite` | Automated betting bot — auto-login with 2FA/OTP, special odds detection, Telegram integration, GUI |
+| 🎮 | **IL2CPP Mod Template** | `C++` `IL2CPP` | Open-source template for building Unity IL2CPP game mods |
+
+</div>
+
+<div align="center">
+
+> 📬 *For private repo access or collaboration — contact me via email.*
 
 </div>
 

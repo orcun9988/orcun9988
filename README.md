@@ -1,207 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:00FF41&height=200&section=header&text=W%20H%20I%20S&fontSize=80&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Reverse%20Engineer%20%7C%20Security%20Researcher&descSize=18&descAlignY=55&descColor=00FF41"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7C3AED&height=200&section=header&text=W%20H%20I%20S&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%26%20Security%20Researcher&descSize=18&descAlignY=55&descColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=%24+./exploit+--target+security+--mode+research;%24+Building+commercial+apps+%26+security+tools+for+6%2B+years)](https://whis33.com)
-
-<br>
-
-[![Website](https://img.shields.io/badge/⚡_whis33.com-000000?style=for-the-badge&logo=tor-browser&logoColor=00FF41)](https://whis33.com)
-[![Email](https://img.shields.io/badge/📧_whis@whis33.com-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41)](mailto:whis@whis33.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=orcun9988&style=for-the-badge&color=00FF41&label=WATCHERS)](https://github.com/orcun9988)
+[![Website](https://img.shields.io/badge/Website-whis33.com-7C3AED?style=for-the-badge)](https://whis33.com)
+[![Email](https://img.shields.io/badge/Contact-whis%40whis33.com-7C3AED?style=for-the-badge)](mailto:whis@whis33.com)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## About
+
+Independent software developer with 6+ years of experience building commercial applications, web platforms, and security research tools. Focused on application security, clean architecture, and automation.
+
+- 6+ years of freelance software development
+- 5+ commercial products with subscription model
+- International customers across 30+ countries
+- 99%+ uptime on production systems
+
+## Tech Stack
+
+**Languages:** C# · C++ · Python · PHP · JavaScript · SQL · AutoIt · HTML/CSS
+**Frameworks:** .NET · Unity · DirectX · WPF · WinForms · MySQL · MariaDB
+**Security Research:** IDA Pro · Ghidra · dnSpy · x64dbg · Wireshark · Fiddler
+**Focus Areas:** Application security · Reverse engineering for security research · Automation tools · API design · Licensing systems
+
+## Selected Public Repositories
+
+| Project | Tech | Description |
+|---------|:----:|-------------|
+| **IL2CPP Mod Template** | C++ | Educational template for Unity IL2CPP research |
+| **Apartment Management System** | C# · MySQL | Apartment fee and bill calculation desktop app |
+| **Arbitrage Checker Bot** | Python | Crypto arbitrage monitoring across exchanges |
+| **Affine Cipher Implementation** | C# | Educational cryptography example |
+| **C# Process Memory Toolkit** | C# | Educational example for process memory inspection |
+| **Unity Runtime Instrumentation** | C++ | Educational research project |
+
+> Other commercial products are private — contact for collaboration.
+
+## GitHub Stats
 
 <div align="center">
-
-## ☠️ `whoami`
-
+<img src="https://github-readme-stats.vercel.app/api?username=orcun9988&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orcun9988&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&langs_count=8" width="40%"/>
 </div>
 
-<div align="center">
+## Contact
 
-```js
-const whis = {
-    role      : "Software Developer & Security Researcher",
-    exp       : "6+ years",
-    users     : "4,500+",
-    countries : "30+",
-    focus     : ["Reverse Engineering", "App Security", "Game Hacking"],
-    motto     : "Break it to understand it. Build it to protect it.",
-};
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## 🕵️ `cat /etc/skills`
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🔐 SECURITY
-```
-▰▰▰▰▰ Reverse Engineering
-▰▰▰▰▰ Application Security
-▰▰▰▰▱ Anti-Debugging
-▰▰▰▰▱ Code Obfuscation
-▰▰▰▰▱ Penetration Testing
-```
-
-</td>
-<td width="33%" align="center">
-
-### 💀 DEVELOPMENT
-```
-▰▰▰▰▰ API Design
-▰▰▰▰▰ Licensing Systems
-▰▰▰▰▱ Automation Tools
-▰▰▰▰▱ Bot Development
-▰▰▰▰▱ Database Architecture
-```
-
-</td>
-<td width="33%" align="center">
-
-### 🎮 GAME TECH
-```
-▰▰▰▰▰ Unity Engine
-▰▰▰▰▰ IL2CPP & Mono
-▰▰▰▰▱ MelonLoader
-▰▰▰▰▱ BepInEx
-▰▰▰▱▱ DirectX 9/11
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## ⚙️ `ls ./arsenal`
-
-### 💉 Languages
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
-![AutoIt](https://img.shields.io/badge/AutoIt-000000?style=for-the-badge&logo=autoit&logoColor=00FF41)
-![HTML](https://img.shields.io/badge/HTML%2FCSS-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
-
-### 🧰 Frameworks
-![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00FF41)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00FF41)
-![DirectX](https://img.shields.io/badge/DirectX-000000?style=for-the-badge&logo=directx&logoColor=00FF41)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
-![WPF](https://img.shields.io/badge/WPF-000000?style=for-the-badge&logo=windows&logoColor=00FF41)
-![WinForms](https://img.shields.io/badge/WinForms-000000?style=for-the-badge&logo=windows&logoColor=00FF41)
-
-### 🔬 RE Arsenal
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=hexrays&logoColor=FF0000)
-![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=FF0000)
-![dnSpy](https://img.shields.io/badge/dnSpy-000000?style=for-the-badge&logo=dotnet&logoColor=FF0000)
-![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=for-the-badge&logo=buffer&logoColor=FF0000)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FF0000)
-![Fiddler](https://img.shields.io/badge/Fiddler-000000?style=for-the-badge&logo=fiddler&logoColor=FF0000)
-![CheatEngine](https://img.shields.io/badge/Cheat_Engine-000000?style=for-the-badge&logo=hackthebox&logoColor=FF0000)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## 📊 `git log --stats`
-
-<img src="https://github-readme-stats.vercel.app/api?username=orcun9988&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=orcun9988&hide_border=true&background=0D1117&ring=00FF41&fire=FF0000&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=555555" width="48%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orcun9988&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&langs_count=8" width="40%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=orcun9988&bg_color=0D1117&color=00FF41&line=00FF41&point=FF0000&area=true&area_color=00FF41&hide_border=true" width="95%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## 🔒 `chmod 700 ./projects`
-
-> **⚠️ Most repositories are classified.** Code theft incidents forced private access.
-> *Source code is private — descriptions below.*
-
-</div>
-
-<div align="center">
-
-| | Project | Tech | Description |
-|:---:|---------|:----:|-------------|
-| 🛡️ | **Whis Obfuscator** | `C#` `.NET` | Advanced .NET assembly obfuscator — name protection, string encryption, anti-debug, control flow, anti-de4dot, junk code injection |
-| 🚀 | **Whis Launcher** | `C++` `DirectX9` `ImGui` | Modern desktop launcher with hardware-accelerated UI, auto-update OTA, blur effects & smooth animations |
-| 👻 | **Whis Phasmo Premium** | `C#` `MelonLoader` `Unity` | Full-featured Phasmophobia mod — ESP, harmony patching, fullbright, troll menu, AES encrypted licensing |
-| 👻 | **Whis Repo Premium** | `C#` `MelonLoader` `Unity` | Advanced Phasmophobia mod — noclip, item manager, server list, player settings, color changer, ESP system |
-| 🎲 | **Whis LiarsBar IL2CPP** | `C#` `IL2CPP` `Unity` | Liars Bar premium mod built for IL2CPP runtime — native code hooking & card manipulation |
-| 🎲 | **Whis LiarsBar Mono** | `C#` `Mono` `PowerShell` | Liars Bar mod for Mono backend with RE analysis toolkit — DLL analysis, class enumeration scripts |
-| 🦀 | **Whis CrabGame VIP** | `C#` `MelonLoader` `Unity` | Crab Game premium mod — anti-cheat bypass, custom ESP rendering, anti-debugger protection |
-| 💥 | **Whis MegaBonk Premium** | `C#` `MelonLoader` `Unity` | MegaBonk game mod — login system, troll menus, logging framework |
-| 🤖 | **Whis EveryMatrix Bot** | `Python` `Selenium` `SQLite` | Automated betting bot — auto-login with 2FA/OTP, special odds detection, Telegram integration, GUI |
-| 🎮 | **IL2CPP Mod Template** | `C++` `IL2CPP` | Open-source template for building Unity IL2CPP game mods |
-
-</div>
-
-<div align="center">
-
-> 📬 *For private repo access or collaboration — contact me via email.*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## 🎯 `ps aux | grep active`
-
-```
-🔐 Building scalable subscription systems with anti-piracy measures
-🛡️ Exploring advanced anti-debugging & VM detection techniques
-🧬 Developing next-gen code obfuscation algorithms
-🔬 Reverse engineering challenges & security research
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-### 📡 `nc -lvp 4444` — Waiting for connections...
-
-*Interested in collaboration or need access to private repositories?*
-
-[![Website](https://img.shields.io/badge/⚡_whis33.com-000000?style=for-the-badge&logo=tor-browser&logoColor=00FF41)](https://whis33.com)
-[![Email](https://img.shields.io/badge/📧_Contact_Me-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41)](mailto:whis@whis33.com)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=100&section=footer"/>
-
-</div>
+- 🌐 [whis33.com](https://whis33.com)
+- 📧 [whis@whis33.com](mailto:whis@whis33.com)

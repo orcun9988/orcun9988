@@ -1,49 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7C3AED&height=200&section=header&text=W%20H%20I%20S&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%26%20Security%20Researcher&descSize=18&descAlignY=55&descColor=ffffff"/>
+# Software Developer
 
-[![Website](https://img.shields.io/badge/Website-whis33.com-7C3AED?style=for-the-badge)](https://whis33.com)
-[![Email](https://img.shields.io/badge/Contact-whis%40whis33.com-7C3AED?style=for-the-badge)](mailto:whis@whis33.com)
+**C# · C++ · Python · PHP · Dart · SQL**
+
+Desktop tooling, mobile applications, web systems, runtime diagnostics, and
+security-minded software engineering.
 
 </div>
 
-## About
+## What I build
 
-Independent software developer with 6+ years of experience building commercial applications, web platforms, and security research tools. Focused on application security, clean architecture, and automation.
+- Windows desktop applications and automation tools with C#, C++, .NET, WPF,
+  WinForms, Win32, and DirectX
+- Mobile application prototypes with Flutter and .NET MAUI
+- REST API integrations, PHP backends, SQL data flows, hosting, and deployment
+- Unity runtime analysis tooling, diagnostic overlays, and compatibility-focused
+  extensions for authorized research environments
+- Practical security reviews involving traffic inspection, reverse engineering,
+  and defensive validation
 
-- 6+ years of freelance software development
-- 5+ commercial products with subscription model
-- International customers across 30+ countries
-- 99%+ uptime on production systems
+## Featured portfolio
 
-## Tech Stack
+| Project | Technology | What it demonstrates |
+|---|---|---|
+| [Message Router Mobile Showcase](https://github.com/orcun9988/message-router-mobile-showcase) | Flutter · Dart | Rule-based message routing, local-first state, and privacy-aware mobile architecture |
+| [Secure Delivery Launcher Showcase](https://github.com/orcun9988/secure-delivery-launcher-showcase) | C++ · Win32 · DirectX | Authenticated artifact delivery, validation states, and desktop UI architecture |
+| [Unity Runtime Analysis Showcase](https://github.com/orcun9988/unity-runtime-analysis-showcase) | C# · Unity · Harmony | Runtime discovery, safe instrumentation, lifecycle handling, and diagnostic UI |
+| [Cross-Platform Fitness Companion](https://github.com/orcun9988/cross-platform-fitness-companion-showcase) | C# · .NET MAUI | Cross-platform UI, local persistence, service boundaries, and testable domain logic |
+| [USDT/TRY Arbitrage Monitor](https://github.com/orcun9988/arbitrage-checker-discord-bot) | Python | Market-data monitoring, notification adapters, and environment-based secret handling |
 
-**Languages:** C# · C++ · Python · PHP · JavaScript · SQL · AutoIt · HTML/CSS
-**Frameworks:** .NET · Unity · DirectX · WPF · WinForms · MySQL · MariaDB
-**Security Research:** IDA Pro · Ghidra · dnSpy · x64dbg · Wireshark · Fiddler
-**Focus Areas:** Application security · Reverse engineering for security research · Automation tools · API design · Licensing systems
+## Engineering approach
 
-## Selected Public Repositories
+I prefer small, observable components with explicit boundaries, defensive error
+handling, and repeatable verification. Public repositories are intentionally
+sanitized portfolio editions: production credentials, private endpoints,
+customer data, proprietary integrations, and commercially sensitive modules are
+not included.
 
-| Project | Tech | Description |
-|---------|:----:|-------------|
-| **IL2CPP Mod Template** | C++ | Educational template for Unity IL2CPP research |
-| **Apartment Management System** | C# · MySQL | Apartment fee and bill calculation desktop app |
-| **Arbitrage Checker Bot** | Python | Crypto arbitrage monitoring across exchanges |
-| **Affine Cipher Implementation** | C# | Educational cryptography example |
-| **C# Process Memory Toolkit** | C# | Educational example for process memory inspection |
-| **Unity Runtime Instrumentation** | C++ | Educational research project |
+## Tools and focus areas
 
-> Other commercial products are private — contact for collaboration.
+`C#` `C++` `Python` `PHP` `Dart` `SQL` `Unity` `.NET` `Flutter` `Win32`
+`REST APIs` `MySQL/MariaDB` `Git` `IDA` `dnSpy` `Ghidra` `Wireshark`
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=orcun9988&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orcun9988&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&langs_count=8" width="40%"/>
-</div>
-
-## Contact
-
-- 🌐 [whis33.com](https://whis33.com)
-- 📧 [whis@whis33.com](mailto:whis@whis33.com)
+> Commercial systems remain private. The public projects above are designed to
+> show architecture, coding style, and problem-solving scope without exposing
+> production assets.

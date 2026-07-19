@@ -22,7 +22,7 @@ MessagePilot automatically forwards SMS messages received on an iPhone to destin
 - Windows desktop applications and internal tools using C#, C++, .NET, WPF, WinForms, Win32, DirectX, and PyQt
 - Backend and web systems involving PHP, Python, SQL, authentication, API integrations, hosting, SSL, deployment, logging, and production support
 - Cross-platform mobile applications using Flutter/Dart, REST APIs, local persistence, permissions, notifications, and background workflows
-- Unity Mono/IL2CPP runtime analysis, lifecycle tracing, diagnostic interfaces, compatibility-focused extensions, and small gameplay/tooling prototypes
+- Unity C# gameplay scripting, mechanics, runtime UI, Mono/IL2CPP analysis, lifecycle tracing, diagnostic tools, and compatibility-focused extensions
 - Defensive debugging and authorized security validation using traffic inspection, reverse engineering, failure-path analysis, and reproducible tests
 
 ## Selected engineering work
@@ -47,7 +47,7 @@ Public repositories are sanitized portfolio editions. Production credentials, cu
 
 ## Current focus
 
-Open to individual-contributor software development roles involving automation, backend/API integrations, Windows tooling, QA automation, runtime systems, Unity tools/technical QA, or security-minded engineering. Available for remote or hybrid work and relocation within Türkiye.
+Open to individual-contributor software development roles involving automation, backend/API integrations, Windows tooling, QA automation, runtime systems, Unity C# gameplay scripting/tools, technical QA, or security-minded engineering. Available for remote or hybrid work and relocation within Türkiye.
 
 I am happy to demonstrate my skills through a take-home case, coding exercise, or confidential technical walkthrough.
 

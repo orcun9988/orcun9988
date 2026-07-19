@@ -27,6 +27,7 @@ security-minded software engineering.
 | [Message Router Mobile Showcase](https://github.com/orcun9988/message-router-mobile-showcase) | Flutter · Dart | Rule-based message routing, local-first state, and privacy-aware mobile architecture |
 | [Secure Delivery Launcher Showcase](https://github.com/orcun9988/secure-delivery-launcher-showcase) | C++ · Win32 · DirectX | Authenticated artifact delivery, validation states, and desktop UI architecture |
 | [Unity Runtime Analysis Showcase](https://github.com/orcun9988/unity-runtime-analysis-showcase) | C# · Unity · Harmony | Runtime discovery, safe instrumentation, lifecycle handling, and diagnostic UI |
+| [Signal Chain Unity Puzzle](https://github.com/orcun9988/signal-chain-unity-puzzle) | C# · Unity 6 | A complete 2D puzzle with data-driven levels, graph traversal, automated verification, and a reproducible Windows build |
 | [Cross-Platform Fitness Companion](https://github.com/orcun9988/cross-platform-fitness-companion-showcase) | C# · .NET MAUI | Cross-platform UI, local persistence, service boundaries, and testable domain logic |
 | [USDT/TRY Arbitrage Monitor](https://github.com/orcun9988/arbitrage-checker-discord-bot) | Python | Market-data monitoring, notification adapters, and environment-based secret handling |
 

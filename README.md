@@ -10,19 +10,11 @@ I build and ship desktop, mobile, web, automation, and Unity-focused software—
 
 </div>
 
-## Shipped product
+## Proof of shipped work
 
-### [MessagePilot - SMS Forwarder](https://apps.apple.com/us/app/messagepilot-sms-forwarder/id6762195478) — live on the Apple App Store
+**[MessagePilot - SMS Forwarder](https://apps.apple.com/us/app/messagepilot-sms-forwarder/id6762195478)** · Flutter/Dart · iOS 1.2.0 · [sanitized architecture showcase](https://github.com/orcun9988/message-router-mobile-showcase)
 
-I developed and maintain the production iOS application, its API integrations, local data flows, permissions, notifications, background workflows, release process, and post-release support. The current public release is iOS 1.2.0.
-
-<p align="center">
-  <a href="https://apps.apple.com/us/app/messagepilot-sms-forwarder/id6762195478"><img src="https://raw.githubusercontent.com/orcun9988/message-router-mobile-showcase/main/docs/images/messagepilot-app-store-1.jpg" width="31%" alt="MessagePilot production dashboard" /></a>
-  <a href="https://apps.apple.com/us/app/messagepilot-sms-forwarder/id6762195478"><img src="https://raw.githubusercontent.com/orcun9988/message-router-mobile-showcase/main/docs/images/messagepilot-app-store-2.jpg" width="31%" alt="MessagePilot rule creation flow" /></a>
-  <a href="https://apps.apple.com/us/app/messagepilot-sms-forwarder/id6762195478"><img src="https://raw.githubusercontent.com/orcun9988/message-router-mobile-showcase/main/docs/images/messagepilot-app-store-3.jpg" width="31%" alt="MessagePilot production settings" /></a>
-</p>
-
-The commercial source and production services remain private. A security-reviewed, intentionally limited [public architecture showcase](https://github.com/orcun9988/message-router-mobile-showcase) demonstrates the engineering approach without exposing credentials, private endpoints, customer data, or proprietary modules.
+A production App Store product developed and maintained end to end. Public materials are intentionally limited to safe architecture examples and store screenshots; production source, private services, credentials, API endpoints, customer data, and commercial modules are not published.
 
 ## What I build
 
@@ -37,8 +29,7 @@ The commercial source and production services remain private. A security-reviewe
 
 | Project | Technology | What it demonstrates |
 |---|---|---|
-| [MessagePilot - SMS Forwarder](https://apps.apple.com/us/app/messagepilot-sms-forwarder/id6762195478) | Flutter · Dart · iOS | A real App Store product shipped and maintained end to end |
-| [MessagePilot Architecture Showcase](https://github.com/orcun9988/message-router-mobile-showcase) | Flutter · Dart · REST | BLoC-style state, routing rules, local data, background delivery, and privacy boundaries |
+| [MessagePilot - SMS Forwarder](https://github.com/orcun9988/message-router-mobile-showcase) | Flutter · Dart · iOS · REST | Live App Store product plus a deliberately limited, security-reviewed architecture showcase |
 | [Signal Chain Unity Puzzle](https://github.com/orcun9988/signal-chain-unity-puzzle) | C# · Unity 6 | Complete 2D puzzle, data-driven levels, graph traversal, automated verification, and a reproducible Windows build |
 | [Unity Runtime Analysis Showcase](https://github.com/orcun9988/unity-runtime-analysis-showcase) | C# · Unity · Harmony | Mono/IL2CPP discovery, safe instrumentation, lifecycle handling, and diagnostic UI |
 | [Secure Delivery Launcher Showcase](https://github.com/orcun9988/secure-delivery-launcher-showcase) | C++ · Win32 · DirectX | Authenticated artifact delivery, validation states, and desktop UI architecture |

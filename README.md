@@ -14,7 +14,7 @@ I build and ship desktop, mobile, web, automation, and Unity-focused software—
 
 **[MessagePilot - SMS Forwarder](https://apps.apple.com/us/app/messagepilot-sms-forwarder/id6762195478)** · Flutter/Dart · iOS 1.2.0 · [sanitized architecture showcase](https://github.com/orcun9988/message-router-mobile-showcase)
 
-A production App Store product developed and maintained end to end. Public materials are intentionally limited to safe architecture examples and store screenshots; production source, private services, credentials, API endpoints, customer data, and commercial modules are not published.
+MessagePilot automatically forwards SMS messages received on an iPhone to destinations such as Telegram or email according to user-defined rules. It is a production App Store product developed and maintained end to end. Public materials are intentionally limited to safe architecture examples and store screenshots; production source, private services, credentials, API endpoints, customer data, and commercial modules are not published.
 
 ## What I build
 
@@ -29,7 +29,7 @@ A production App Store product developed and maintained end to end. Public mater
 
 | Project | Technology | What it demonstrates |
 |---|---|---|
-| [MessagePilot - SMS Forwarder](https://github.com/orcun9988/message-router-mobile-showcase) | Flutter · Dart · iOS · REST | Live App Store product plus a deliberately limited, security-reviewed architecture showcase |
+| [MessagePilot - SMS Forwarder](https://github.com/orcun9988/message-router-mobile-showcase) | Flutter · Dart · iOS · REST | Rule-based iPhone SMS forwarding to Telegram/email, plus a deliberately limited architecture showcase |
 | [Signal Chain Unity Puzzle](https://github.com/orcun9988/signal-chain-unity-puzzle) | C# · Unity 6 | Complete 2D puzzle, data-driven levels, graph traversal, automated verification, and a reproducible Windows build |
 | [Unity Runtime Analysis Showcase](https://github.com/orcun9988/unity-runtime-analysis-showcase) | C# · Unity · Harmony | Mono/IL2CPP discovery, safe instrumentation, lifecycle handling, and diagnostic UI |
 | [Secure Delivery Launcher Showcase](https://github.com/orcun9988/secure-delivery-launcher-showcase) | C++ · Win32 · DirectX | Authenticated artifact delivery, validation states, and desktop UI architecture |
